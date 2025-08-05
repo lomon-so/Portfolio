@@ -1,0 +1,25 @@
+{
+  "name": "developer-portfolio",
+  "version": "1.0.0",
+  "description": "A fullstack developer portfolio for Chima Solomon.",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lomon-so/Portfolio.git"
+  },
+  "author": "Chima Solomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lomon-so/Portfolio/issues"
+  },
+  "homepage": "https://github.com/lomon-so/Portfolio#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2"
+  }
+}
